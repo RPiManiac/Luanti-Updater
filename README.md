@@ -1,2 +1,2 @@
-# Luanti-Updater
-Allows you to update Luanti on your Linux system with one command.
+# README.md
+Hello people. This shell script automatically updates Luanti on your Linux system. Currently it installs to the directory where you run it. If you want to install Luanti system-wide, edit the line in build_luanti.sh that says "make". Change it to "make install". Now Luanti will install system-wide without you having to constantly wait for the next step to finish before moving on!
